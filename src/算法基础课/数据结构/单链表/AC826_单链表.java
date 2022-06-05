@@ -1,5 +1,7 @@
 package 算法基础课.数据结构.单链表;
+
 import java.util.*;
+
 public class AC826_单链表 {
     static int N = 100010;
     static int[] e = new int[N], ne = new int[N];
