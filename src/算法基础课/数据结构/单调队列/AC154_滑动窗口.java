@@ -1,6 +1,5 @@
 package 算法基础课.数据结构.单调队列;
 
-import java.util.*;
 import java.io.*;
 
 public class AC154_滑动窗口 {
